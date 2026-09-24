@@ -1,6 +1,6 @@
 # Multimodal RAG with NovaCore FY2026 Report
 
-A notebook-based multimodal retrieval-augmented generation (RAG) demo for the NovaCore Systems FY2026 company report. The pipeline extracts text, tables, and embedded visuals from a PDF, summarizes visuals with a Groq vision model, stores all searchable content in Pinecone, and answers questions with either a text or vision model.
+A multimodal retrieval-augmented generation (RAG) demo for the NovaCore Systems FY2026 company report. The pipeline extracts text, tables, and embedded visuals from a PDF, summarizes visuals with a Groq vision model, stores all searchable content in Pinecone, and answers questions with either a text or vision model.
 
 ## What it demonstrates
 
